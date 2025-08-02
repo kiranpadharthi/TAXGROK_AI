@@ -1,0 +1,6 @@
+{
+  "/api/tax-returns/[id]/route": "app/api/tax-returns/[id]/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/api/tax-returns/[id]/documents/route": "app/api/tax-returns/[id]/documents/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}
