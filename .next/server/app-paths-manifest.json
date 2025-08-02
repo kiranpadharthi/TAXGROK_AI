@@ -1,6 +1,24 @@
 {
-  "/api/tax-returns/[id]/route": "app/api/tax-returns/[id]/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/tax-filing/[id]/page": "app/tax-filing/[id]/page.js",
+  "/page": "app/page.js",
   "/dashboard/page": "app/dashboard/page.js",
+  "/auth/signup/page": "app/auth/signup/page.js",
+  "/api/ai/tax-strategies/route": "app/api/ai/tax-strategies/route.js",
+  "/api/debug/tax-data/route": "app/api/debug/tax-data/route.js",
+  "/api/auth/signup/route": "app/api/auth/signup/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/documents/[id]/route": "app/api/documents/[id]/route.js",
+  "/api/tax-returns/[id]/complete-step/route": "app/api/tax-returns/[id]/complete-step/route.js",
+  "/api/documents/upload/route": "app/api/documents/upload/route.js",
+  "/api/tax-returns/[id]/deductions/[entryId]/route": "app/api/tax-returns/[id]/deductions/[entryId]/route.js",
+  "/api/tax-returns/[id]/auto-save/route": "app/api/tax-returns/[id]/auto-save/route.js",
+  "/api/tax-returns/[id]/deductions/route": "app/api/tax-returns/[id]/deductions/route.js",
+  "/api/tax-returns/[id]/income/route": "app/api/tax-returns/[id]/income/route.js",
   "/api/tax-returns/[id]/documents/route": "app/api/tax-returns/[id]/documents/route.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+  "/api/tax-returns/[id]/income/[entryId]/route": "app/api/tax-returns/[id]/income/[entryId]/route.js",
+  "/api/tax-returns/route": "app/api/tax-returns/route.js",
+  "/api/tax-returns/[id]/route": "app/api/tax-returns/[id]/route.js",
+  "/api/documents/[id]/process/route": "app/api/documents/[id]/process/route.js"
 }
